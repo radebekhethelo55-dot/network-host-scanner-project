@@ -19,7 +19,6 @@ Built to demonstrate basic network reconnaissance concepts relevant to SOC and n
 ## 🚀 How to Run
 ```bash
 python scanner.py
-
-
-
- 
+```
+📸 Demo
+[network scanner demo] (Screenshot 2026-05-18 204102)
