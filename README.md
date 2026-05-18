@@ -5,7 +5,7 @@ A Python tool for discovering active hosts on a local network using ICMP ping re
 ## 🎯 Purpose
 Built to demonstrate basic network reconnaissance concepts relevant to SOC and network security roles.
 
- ##📚 What I Learned
+ ## 📚 What I Learned
 	∙	How ICMP ping works at a network level
 	∙	IP address structure and subnetting basics
 	∙	Python scripting for network tasks
