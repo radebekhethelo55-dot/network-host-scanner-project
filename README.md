@@ -21,4 +21,4 @@ Built to demonstrate basic network reconnaissance concepts relevant to SOC and n
 python scanner.py
 ```
 📸 Demo
-[network scanner demo] (Screenshot 2026-05-18 204102)
+(Screenshot 2026-05-18 204102.png)
