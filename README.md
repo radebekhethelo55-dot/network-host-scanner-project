@@ -5,6 +5,12 @@ A Python tool for discovering active hosts on a local network using ICMP ping re
 ## 🎯 Purpose
 Built to demonstrate basic network reconnaissance concepts relevant to SOC and network security roles.
 
+ ##📚 What I Learned
+	∙	How ICMP ping works at a network level
+	∙	IP address structure and subnetting basics
+	∙	Python scripting for network tasks
+	∙	How to identify active hosts on a network
+
 ## 🛠️ Tools Used
 - Python 3
 - subprocess (built-in)
@@ -14,10 +20,6 @@ Built to demonstrate basic network reconnaissance concepts relevant to SOC and n
 ```bash
 python scanner.py
 
----
 
- 📚 What I Learned
-	∙	How ICMP ping works at a network level
-	∙	IP address structure and subnetting basics
-	∙	Python scripting for network tasks
-	∙	How to identify active hosts on a network
+
+ 
